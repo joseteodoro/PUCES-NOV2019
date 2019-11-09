@@ -7,6 +7,7 @@
 [Spreadsheet to push the exercises](https://docs.google.com/spreadsheets/d/16gLMbd7kn9ROt5tVoc-bI1xCTsfXy6qY3ixDkgaTw88/edit?usp=sharing)
 
 Resources:
+
 [refactoring.guru](https://refactoring.guru/design-patterns)
 
 [sourcemaking](https://sourcemaking.com/design_patterns/)
