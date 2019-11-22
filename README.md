@@ -8,6 +8,13 @@
 
 [Multiple choice quiz](https://forms.gle/NmWscNHXT84Jbzd1A)
 
+## 2nd:
+[Presentation](https://docs.google.com/presentation/d/1MEga480G5regm9nipW2-PZslq_UalB1FszUAMAQRR3A/edit?usp=sharing)
+
+[Spreadsheet to push the exercises]()
+
+[Multiple choice quiz](https://forms.gle/hsg2FTfBhG6BYLTX9)
+
 Resources:
 
 [refactoring.guru](https://refactoring.guru/design-patterns)
