@@ -11,9 +11,16 @@
 ## 2nd:
 [Presentation](https://docs.google.com/presentation/d/1MEga480G5regm9nipW2-PZslq_UalB1FszUAMAQRR3A/edit?usp=sharing)
 
-[Spreadsheet to push the exercises]()
+[Spreadsheet to push the exercises](https://docs.google.com/spreadsheets/d/16gLMbd7kn9ROt5tVoc-bI1xCTsfXy6qY3ixDkgaTw88/edit?usp=sharing)
 
 [Multiple choice quiz](https://forms.gle/hsg2FTfBhG6BYLTX9)
+
+## 3nd:
+[Presentation](https://docs.google.com/presentation/d/1wOP0Qs2roOsatLSfLPgP42hMUIKtke0906m7YaXYtMk/edit?usp=sharing)
+
+[Spreadsheet to push the exercises](https://docs.google.com/spreadsheets/d/16gLMbd7kn9ROt5tVoc-bI1xCTsfXy6qY3ixDkgaTw88/edit?usp=sharing)
+
+[Multiple choice quiz](https://forms.gle/4sDhVBAVVzDeyrUd9)
 
 Resources:
 
