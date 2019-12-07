@@ -22,6 +22,12 @@
 
 [Multiple choice quiz](https://forms.gle/4sDhVBAVVzDeyrUd9)
 
+## 4th:
+[Presentation](https://docs.google.com/presentation/d/1Yzax3rmFFcH4Yc5bLn2eCVQa8PzdPnJ1CuMvrfQBwUU/edit?usp=sharing)
+
+[Spreadsheet to push the exercises](https://docs.google.com/spreadsheets/d/16gLMbd7kn9ROt5tVoc-bI1xCTsfXy6qY3ixDkgaTw88/edit?usp=sharing)
+
+
 Resources:
 
 [refactoring.guru](https://refactoring.guru/design-patterns)
