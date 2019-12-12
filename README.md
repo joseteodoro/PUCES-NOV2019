@@ -27,6 +27,8 @@
 
 [Spreadsheet to push the exercises](https://docs.google.com/spreadsheets/d/16gLMbd7kn9ROt5tVoc-bI1xCTsfXy6qY3ixDkgaTw88/edit?usp=sharing)
 
+[Review Quiz](https://forms.gle/mdgMahGydCEgkRge7)
+
 ## 5th:
 
 [Presentation](https://docs.google.com/document/d/1_U7xg7ub_ZHS8UHYhhiNLiOfxEAWLB3Xl-UZFbt_jvc/edit?usp=sharing)
