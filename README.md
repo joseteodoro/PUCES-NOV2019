@@ -38,3 +38,7 @@ Resources:
 [refactoring.guru](https://refactoring.guru/design-patterns)
 
 [sourcemaking](https://sourcemaking.com/design_patterns/)
+
+[Design Research for Computer Science](https://www.amazon.com.br/Metodologia-Pesquisa-Para-Ci%C3%AAncia-Computa%C3%A7%C3%A3o/dp/853527782X/ref=sr_1_3?qid=1576168117&refinements=p_lbr_books_authors_browse-bin%3ARaul+Sidnei+Wazlawick&s=books&sr=1-3)
+Title: Metodologia de pesquisa para ciência da computação
+Author: Raul Wazlawick
